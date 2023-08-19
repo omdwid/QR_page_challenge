@@ -8,3 +8,4 @@ The challenge was to build out a QR code component and get it looking as close t
 
 ## Deploying the project
 
+Website live at: https://omdwid.github.io/QR_page_challenge/
